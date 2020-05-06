@@ -1,0 +1,24 @@
+{
+  "name": "full-stack-web-and-mobile-dev-coursera",
+  "version": "1.0.0",
+  "description": "Doing the first module's first week from soft eng course on couresera",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite", 
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thegreatone9/Full-Stack-Web-and-Mobile-Dev-Coursera.git"
+  },
+  "author": "Musa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thegreatone9/Full-Stack-Web-and-Mobile-Dev-Coursera/issues"
+  },
+  "homepage": "https://github.com/thegreatone9/Full-Stack-Web-and-Mobile-Dev-Coursera#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
